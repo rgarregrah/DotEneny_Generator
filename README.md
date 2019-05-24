@@ -6,3 +6,8 @@
 JavaScript
 
 p5.js 0.8.0
+
+## 推奨動作環境
+PC: Firefox, Chrome, Vivaldi　最新版
+スマホ: Android Chrome 最新版
+※(Mac, iPhoneのSafariは実機がないのでわから)ないです。
