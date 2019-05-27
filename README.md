@@ -15,3 +15,13 @@ PC: Firefox, Chrome, Vivaldi　最新版
 スマホ: Android Chrome 最新版
 
 ※(Mac, iPhoneのSafariは実機がないのでわから)ないです。
+
+## ToDo
+
+- [ ] リファクタリング
+
+- [ ] 個体ごとの画像保存機能
+
+- [ ] 各種変数のブラウザ上での変更(生成数、マージン)
+
+- [ ] ゲーム化？
